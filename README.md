@@ -1,6 +1,6 @@
 # mean-angular-seed — the seed for AngularJS apps with Express, Mongoos and W3.CSS
 
-This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
+This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app based on [angular/angular-seed](https://github.com/angular/angular-seed) extended with a simple MEAN Framework.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
 projects.
 
