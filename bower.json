@@ -1,8 +1,8 @@
 {
-  "name": "angular-seed",
-  "description": "A starter project for AngularJS",
+  "name": "mean-angular-seed",
+  "description": "A starter project for AngularJS with Express and MongoDB",
   "version": "0.0.0",
-  "homepage": "https://github.com/angular/angular-seed",
+  "homepage": "https://github.com/vurte/angular-seed",
   "license": "MIT",
   "private": true,
   "dependencies": {
