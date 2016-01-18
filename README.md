@@ -1,7 +1,6 @@
 # mean-seed
-This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app, based on [angular/angular-seed](https://github.com/angular/angular-seed) and extended with a simple MEAN Framework (MongoDB, Express, AngularJS, and Node.js).
+This project is an application skeleton for a typical MEAN Framework (MongoDB, Express, AngularJS, and Node.js), based on [angular/angular-seed](https://github.com/angular/angular-seed).
 You can use it to quickly bootstrap your webapp projects using a basic MEAN Framework.
-
 
 ## Getting Started
 
